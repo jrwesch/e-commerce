@@ -49,6 +49,6 @@ To contribute to the Employee Tracker, clone this repo locally and commit your c
 ## Questions/Links
 Any questions can be directed to me at https://github.com/jrwesch
 
-The repository is found at: https://github.com/jrwesch/employee-tracker
+The repository is found at: https://github.com/jrwesch/e-commerce
   
-[Link to video of demonstration](https://drive.google.com/file/d/1dBDoz3rDCcyRQKZc5VN3VMze5eSdknS8/view)
+[Link to video of demonstration]
