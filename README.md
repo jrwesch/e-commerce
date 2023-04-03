@@ -35,7 +35,7 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core</br>
 THEN I am able to successfully create, update, and delete data in my database</br>
 
 ## Contributors
-To contribute to the Employee Tracker, clone this repo locally and commit your code on a separate branch.
+To contribute to the E-Commerce project, clone this repo locally and commit your code on a separate branch.
   
 
 ## Technology Used
