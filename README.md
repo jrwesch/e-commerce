@@ -48,4 +48,4 @@ Any questions can be directed to me at https://github.com/jrwesch
 
 The repository is found at: https://github.com/jrwesch/e-commerce
   
-[Link to video of demonstration]
+[Link to video of demonstration](https://drive.google.com/file/d/1ggPSOkB4qYFHSSybDtlPhHiNc1MLBWfE/view)
